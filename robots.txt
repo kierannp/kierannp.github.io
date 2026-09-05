@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kierannp.github.io/sitemap-index.xml
+Host: https://kierannp.github.io
